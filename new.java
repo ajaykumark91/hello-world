@@ -1,4 +1,4 @@
 main()
 {
-System.out.println("Hi");
+return void();
 }
